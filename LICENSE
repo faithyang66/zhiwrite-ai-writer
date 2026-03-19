@@ -1,24 +1,50 @@
-This is free and unencumbered software released into the public domain.
+ZHIWRITE AI WRITER 商用授权许可协议（V1）
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+重要声明：
+1) 本协议为“源代码可用（source-available）”的商业授权协议，而非 OSI/FSF 认可的开源协议。
+2) 请在发布前确认你对代码及其全部组成拥有相应版权/授权权利。以下仅提供可落地的文本模板，不构成法律意见。
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+版权所有：
+泰州市晨晖时光网络科技有限公司
+（下称“许可方/本公司”）
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+1. 定义
+1.1 “软件/作品”：指本插件及其源代码、文档、资源文件（如适用），以及基于其修改/衍生的版本。
+1.2 “非商用（Non-Commercial）”：指不以营利为目的、不为商业客户提供服务、不产生商业收入或替代商业服务对价的使用情形。
+1.3 “商用（Commercial）”：指任何以营利为目的、向第三方提供付费服务、为商业客户提供对外服务、或以该软件参与产生收入的使用情形。即使仅为企业内部使用但仍构成商业运营的，也可能被视为商用。
+1.4 “商业授权”：指许可方出具的书面授权协议及其约定的费用支付与合规要求。
+1.5 “衍生作品”：指对软件进行修改、改写、翻译、合并、分发等所产生的基于原软件的作品。
 
-For more information, please refer to <https://unlicense.org>
+2. 授权范围
+2.1 非商用许可
+许可方授予你以下权利（且仅在满足本协议限制的前提下）：
+a) 使用、复制、修改软件；
+b) 将软件或你的衍生作品用于非商用目的；
+c) 在非商用范围内对软件或你的衍生作品进行分发/再发布，但你必须保留本协议及版权声明，并且确保接收方也受本协议“商用需授权”的限制约束。
+
+2.2 商用需授权
+无论你是否对软件做了修改，只要你的使用属于“商用（Commercial）”，你必须在使用前获得商业授权，并按商业授权支付相应费用。如未获得商业授权，许可方保留追究法律责任的权利。
+
+3. 禁止事项
+3.1 未经商业授权，不得进行商用。
+3.2 不得移除/规避版权声明、许可条款、或任何为识别授权状态而设置的技术/声明（如适用）。
+3.3 你不得以本软件为基础从事违法违规活动。
+
+4. 署名与保留权利
+4.1 在你对软件或衍生作品进行分发时，必须保留本协议以及本公司版权声明。
+4.2 本公司保留对软件及其相关商标/品牌的权利（如有）。
+
+5. 免责声明
+5.1 按“现状（AS IS）”提供软件，不提供任何形式的担保，包括但不限于适用性、适销性或特定用途适用的担保。
+5.2 对因使用软件导致的任何损失或损害，本公司不承担责任。
+
+6. 责任限制
+在法律允许的最大范围内，本公司在任何情况下对任何直接或间接损害不承担责任，包括但不限于利润损失、数据丢失、业务中断等。
+
+7. 期限与终止
+7.1 本协议自你首次使用/分发软件之日起生效。
+7.2 若你违反本协议任何条款，本协议自动终止，你必须立即停止使用并停止分发。
+
+8. 适用法律
+本协议的解释与争议解决适用中华人民共和国法律（如双方另有书面约定除外）。
+
