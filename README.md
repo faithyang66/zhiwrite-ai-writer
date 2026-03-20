@@ -86,19 +86,6 @@
 - `{{title}}`
 - `{{prompt}}`
 
-## 打包与加密（可选）
-本项目提供一个 Windows BAT 脚本用于生成两份 zip：
-- 完整插件包：`*_full.zip`
-- 加密输入包（仅包含需要加密的 PHP 文件，便于只上传 PHP）：`*_encrypt_php_input.zip`
-
-BAT 文件位置：
-- `pack_zhiwrite-ai-writer.bat`（放在站点根目录 `d:\phpstudy_pro\WWW\wpmb.cn\` 下）
-
-生成产物目录：
-- `dist/zhiwrite-ai-writer/`
-
-> 说明：加密逻辑由你在“加密后的 PHP 包”中完成；脚本仅负责打包出两份输入。
-
 ## 许可证
 GPL-2.0-or-later（详见插件根目录声明）
 - 你可以自由使用/修改/再发布，但需遵循 GPL 许可条款。
